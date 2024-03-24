@@ -1,0 +1,24 @@
+.userName{
+    font-weight: 700 !important;
+}
+.userCard{
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+}
+.heading{
+    margin: 20px 0 !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-weight: 800 !important;
+    background-image: linear-gradient(to right, #c33764, #1d2671) !important;
+    color: transparent !important;
+    -webkit-background-clip: text !important;
+}
+.userRedirect{
+    text-decoration: none;
+}
+.userRedirect:hover{
+    text-decoration: underline;
+}
+.userCard:hover{
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1) !important;
+    transform: translateY(-2px) !important;
+}

@@ -1,0 +1,18 @@
+.userDetails{
+    margin: 5px 0 !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-weight: 900 !important;
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e) !important;
+    color: transparent !important;
+    -webkit-background-clip: text !important;
+    font-size: 1.25rem !important; 
+}
+.userID{
+    margin: 5px 0 !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-weight: 800 !important;
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e) !important;
+    color: transparent !important;
+    -webkit-background-clip: text !important;
+    font-size: 3rem !important;
+}
